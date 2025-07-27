@@ -149,6 +149,9 @@ h3{
 .certificate--summary p:first-child{
     margin-top: 0;
 }
+.certificate-item img {
+    width: 250px;
+}
 
 /* Education */
 .education-item{
